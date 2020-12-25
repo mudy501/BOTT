@@ -1,5 +1,5 @@
 exports.donate = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU DONASI ${BotName}* ]----- 🔰
+	return `🔰 -----[ *MENU DONASI ${Bot Mudy}* ]----- 🔰
   
 Hi, *${id.split("@s.whatsapp.net")[0]}* 👋️
 Mau donasi? 
@@ -9,14 +9,11 @@ Mau donasi?
 
 ♻ Silahkan donasi dibawah ini :
    
-⚜ *OVO*: 0895-2325-8649
-⚜ *DANA*: 0895-2325-8649
-⚜ *PULSA*: 0895-2325-8649
-⚜ *GOPAY*: 0895-2325-8649
+⚜ *PULSA*: 0857-5164-7926
 
 📺 *Iklan* :
 
-✅ Follow akun instagram admin ${instagramlu}
+✅ Follow akun instagram admin ${https://www.instagram.com/m.hadination_/}
 
 ⚠️ INFORMASI COVID-19 TERBARU!
 
@@ -27,16 +24,12 @@ Mau donasi?
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ Mau pasang iklan di *${BotName} ?*
-☎️ WA : *${whatsapplu}*
+♻️ Mau pasang iklan di *${Bot mudy} ?*
+☎️ WA : *${0857-5164-7926}*
   
 ⚠️ Gunakan dengan bijak ‼️
-⚠️ Bot ini berjalan ${kapanbotaktif} ‼️
-
-✳️ Official Grub [1] : ${grupch1}
-
-✳️ Official Grub [2] : ${grupch2}
+⚠️ Bot ini berjalan ${SERAH AKU LAH WKWK} ‼️
 
   
-🔰 -----[ *POWERED BY ${BotName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${Bot Mudy}* ]----- 🔰`
 }
