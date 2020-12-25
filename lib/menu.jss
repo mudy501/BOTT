@@ -17,7 +17,7 @@ Contoh: kirim gambar dengan caption #sticker
 => *2.NULIS OTOMATIS*
 _${Bot Mudy} akan mengirimkan tulisan di buku sesuai yang kamu kirim!_
 Perintah: #nulis [kata]
-Contoh: #nulis Author ganteng Tq:v
+Contoh: #nulis MUDY ganteng Tq:v
 
 => *3.FITUR PANTUN*
 _${Bot Mudy} akan mengirimkan pantun secara random!_
