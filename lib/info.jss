@@ -1,5 +1,5 @@
-exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
-	return `🔰 -----[ *MENU ${BotName}* ]----- 🔰
+exports.info = (id, Bot Mudy, corohelp, tampilTanggal, tampilWaktu, instagramlu, whatsapplu, kapanbotaktif, grupch1, grupch2) => {
+	return `🔰 -----[ *MENU ${Bot Mudy}* ]----- 🔰
   
 Hi, *${id.split("@s.whatsapp.net")[0]}* 👋️
 Berikut adalah info pada bot ini!✨
@@ -9,20 +9,16 @@ Berikut adalah info pada bot ini!✨
 
 🔴 INFO BOT! :
 
-=> *AUTHOR*: ./MrG3P5
-=> *YOUTUBE*: X - MrG3P5
+=> *AUTHOR*: ./MUDY
 
 🔴 INFO LAIN! :
-
-OH IYA SCRIPT INI 100% GRATIS KOK.
-SCRIPT DIBUAT DENGAN BAHASA PEMROGRAMAN NODE.JS
 
 ♻️ JANGAN  LUPA DONASI AGAR BOT AKTIF TERUS!
 ♻️ MAU DONASI? SILAHKAN KETIK #donate
 
 📺 *Iklan* :
 
-✅ Follow akun instagram admin ${instagramlu}
+✅ Follow akun instagram admin ${https://www.instagram.com/m.hadination_/}
 
 ⚠️ INFORMASI COVID-19 TERBARU!
 
@@ -33,16 +29,12 @@ SCRIPT DIBUAT DENGAN BAHASA PEMROGRAMAN NODE.JS
 
 ♻️ _TETAP JAGA KESEHATAN DAN SELALU PAKAI MASKER!_
 
-♻️ Mau pasang iklan di *${BotName} ?*
-☎️ WA : *${whatsapplu}*
+♻️ Mau pasang iklan di *${Bot MUDY} ?*
+☎️ WA : *${0857-5164-7926}*
   
 ⚠️ Gunakan dengan bijak ‼️
-⚠️ Bot ini berjalan ${kapanbotaktif} ‼️
-
-✅Official Grub [1] : ${grupch1}
-
-✅Official Grub [2] : ${grupch2}
+⚠️ Bot ini berjalan ${SERAH AKU LAH WKWK} ‼
 
   
-🔰 -----[ *POWERED BY ${BotName}* ]----- 🔰`
+🔰 -----[ *POWERED BY ${Bot Mudy}* ]----- 🔰`
 }
